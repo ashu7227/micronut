@@ -1,0 +1,6 @@
+com\example\$TestController$Definition.class
+com\example\Application.class
+com\example\$TestController$Definition$Reference.class
+META-INF\micronaut\io.micronaut.inject.BeanDefinitionReference\com.example.$TestController$Definition$Reference
+com\example\$TestController$Definition$Exec.class
+com\example\TestController.class
